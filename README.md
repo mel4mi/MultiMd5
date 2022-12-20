@@ -15,4 +15,8 @@ chmod +x MultiMd5.sh
 ```
 bash MultiMd5.sh
 ```
+![usage](/images/usage.png)
 
+# Example Output
+
+![Output](/images/output.png)
